@@ -1,1 +1,3 @@
-git vala format
+git vala format.
+
+my second change
